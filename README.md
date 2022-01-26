@@ -1,6 +1,6 @@
 - 👋 Hi, I’m D Mabu Jaheer Abbas
 - 👀 I’m interested in Programming and IOT
-- 🌱 I’m currently learning web development
+- 🌱 I’m Front-end web developer
 - 📫 How to reach me <br/>
       Linkedin: www.linkedin.com/in/d-mabu-jaheer-abbas-224555195<br/>
       Mail: jaheerabbas1210@gmail.com
