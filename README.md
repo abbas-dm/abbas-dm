@@ -10,6 +10,13 @@
       - Web Developer Internship at FTS(Failure to Success)<br/>
       - IoT Intern at ExpertsHub
 
+- 🏆 Skills <br/>
+      - C/C++
+      - Python
+      - Verilog
+      - SDLC
+      - GitHub
+
 <!---
 abbas-dm/abbas-dm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
