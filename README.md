@@ -11,10 +11,10 @@
       - IoT Intern at ExpertsHub
 
 - 🏆 Skills <br/>
-      - C/C++
-      - Python
-      - Verilog
-      - SDLC
+      - C/C++<br/>
+      - Python<br/>
+      - Verilog<br/>
+      - SDLC<br/>
       - GitHub
 
 <!---
