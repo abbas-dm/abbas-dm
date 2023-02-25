@@ -6,6 +6,7 @@
       - Mail: jaheerabbas1210@gmail.com
       
 - 👨‍🎓 Experience <br/>
+      - Embedded Software Intern at Neonflake Enterprises Hyderabad<br/>
       - Online IoT Internship at Emertxe Information Technologies<br/>
       - Web Developer Internship at FTS(Failure to Success)<br/>
       - IoT Intern at ExpertsHub
