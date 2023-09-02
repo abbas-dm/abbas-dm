@@ -1,14 +1,14 @@
 - 👋 Hi, I’m D Mabu Jaheer Abbas
 - 👀 I’m interested in Programming IoT or Embedded Systems devices
-- 🌱 I’m final year student, Web developer and one who loves to work with Embedded System
+- 🌱 I’m an Electronics Graduate from IIIT Sri City
 - 📫 How to reach me <br/>
       - Linkedin: www.linkedin.com/in/d-mabu-jaheer-abbas-224555195<br/>
       - Mail: jaheerabbas1210@gmail.com
       
 - 👨‍🎓 Experience <br/>
+      - Embedded Engineer 1 at HACKLAB Solutions<br/>
       - Embedded Software Intern at GreenOceans Research Labs Chennai<br/>
       - Online IoT Internship at Emertxe Information Technologies<br/>
-      - Web Developer Internship at FTS(Failure to Success)<br/>
       - IoT Intern at ExpertsHub
 
 - 🏆 Skills <br/>
