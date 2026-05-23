@@ -93,14 +93,11 @@ typedef struct {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/abbas-dm/Smart-Occupancy-Based-Automation-using-Wi-Fi-CSI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbas-dm&repo=Smart-Occupancy-Based-Automation-using-Wi-Fi-CSI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/abbas-dm/Vision-Triggered-Smart-Bird-Repellent-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbas-dm&repo=Vision-Triggered-Smart-Bird-Repellent-System&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
+### 📡 [Smart Occupancy Based Automation using Wi-Fi CSI](https://github.com/abbas-dm/Smart-Occupancy-Based-Automation-using-Wi-Fi-CSI)
+> Wi-Fi CSI-based presence detection and automation
+
+### 🐦 [Vision Triggered Smart Bird Repellent System](https://github.com/abbas-dm/Vision-Triggered-Smart-Bird-Repellent-System)
+> Computer vision-based smart bird deterrent system
 
 ---
 
