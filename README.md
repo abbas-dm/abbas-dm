@@ -89,29 +89,16 @@ typedef struct {
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-1a73e8?style=for-the-badge)
 ![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-1a73e8?style=for-the-badge)
 
-<!---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abbas-dm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-dm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-dm&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
---->
+---
 
 ## 🚀 Featured Projects
 
-> *(Pin your top repositories on GitHub — they'll appear here)*
-
 <div align="center">
-  <a href="https://github.com/abbas-dm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbas-dm&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/abbas-dm/Smart-Occupancy-Based-Automation-using-Wi-Fi-CSI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbas-dm&repo=Smart-Occupancy-Based-Automation-using-Wi-Fi-CSI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/abbas-dm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbas-dm&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/abbas-dm/Vision-Triggered-Smart-Bird-Repellent-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abbas-dm&repo=Vision-Triggered-Smart-Bird-Repellent-System&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
@@ -162,14 +149,6 @@ typedef struct {
 - 🏅 **ARM Cortex-A | Embedded Systems** — Pyjama
 - 🏅 **ARM Cortex-M | Embedded Systems** — Pyjama
 - 🏅 **Embedded System Design** — BinaryUpdates
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbas-dm&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-</div>
 
 ---
 
